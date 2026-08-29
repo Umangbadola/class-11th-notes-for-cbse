@@ -1,0 +1,418 @@
+                       SETS
+DEFINITION
+
+  collection of Well defined and distinct object is known as set.
+   ex: {1,2,3} , {x,y,z}
+
+  Thats why SETS cant contain same object twice.
+   ex: {x,x,y,z} is NOT a set 
+
+  positions of element inside the paranthesis doesnt matter.
+   ex {x,z,y} = {x,y,z}
+ 
+  collection of subjective element are NOT sets 
+   ex; {collection of most attractive female}
+    beauty standard may vary over person to person , thus this collection NOT distinct.
+
+
+_______________________________________________________________________________________
+BASIC CONCEPT        
+ A set is generally denoted by a capital alphabet.
+ ex; A = {x.3.f ...}
+
+ The alphabet inside a set would be denoted in smaller case.
+ ex: A = {a,b,c}
+
+ if 'a' belongs to A(set) then we can denoted it as
+ ex: a∈A                              (here ∈ is  "belongs to " symbol)
+
+ if 'a' does not belongs to A(set) then we can denoted it as :
+ ex: a∉A     
+
+______________________________________________________________________________________
+
+Symbol knowledge : 
+ ∀ means "for all"
+ :,| means "such that"
+ , means "and"
+ ∃ means "there exist"\
+
+________________________________________________________________________________________
+
+REPRESENTATION OF SET
+                    
+ ROSTER FORM/ TABULAR FORM ;
+ A = {1,2,3,4,5 }
+
+
+ SET BUILDER FORM / PROPERTY FORM;
+  A = {x: x∈N , x<5}
+
+
+ VISUAL REPRESENTATION;
+    -----------A 
+    |    1    |
+    |    2    |
+    |    4    |
+    |    3    |
+    -----------
+______________________________________________________________________________________
+
+Cardinal number of set / order of a set;
+ A= {1,2,3,4,5,6}
+ n(A) = 6  (number of element in set "A")
+     or 
+ O(A) = 6 (as order of a set)
+_______________________________________________________________________________________
+
+TYPE OF SETS 
+
+ FINITE SET : number of element in a set are finite.
+  ex: {1,2,3,4,5,6}
+ INFINITE SET : number of element in a set are infinite.
+  ex: {x∈N, x>0 }
+ NULL , EMPTY , VOID SET :  a set having no element in it.
+  ex: F = {x, x∈R ,x^2 + 2 = 0}   
+      F = {}
+      F = Φ              (symbol of Phi)
+ SINGLETON SET :  a set with a single element.
+ ex :  A = {1}
+ EQUAL SET : sets having same element in it.
+  ex: A = {1,3,2},B =  [3,2,1]
+ EQUIVALENT SETS: sets having same cardinal number.
+  ex: C = {1,23,4}  , D= {1,6,4}
+
+________________________________________________________________________________________
+
+INTERVAL
+
+ OPEN INTERVAL : condition not including the number used
+  ex: {x:x∈N,1<x<3 } (here 1,3 are not included)
+      (1,3)
+      now set will be A = {2}
+
+ CLOSED INTERVAL : condition  including the number used
+  ex: {x:x∈N,1≤x≤3 } (here 1,3 are  included)
+      [1,3]
+      now set wil be A={1,2,3}
+ SEMI CLOSED INTERVAL : condition including one number used
+  ex: {x:x∈N,1<x≤3}
+      (1,3]
+       now set will be A={2,3}
+
+______________________________________________________________________________________
+
+SUBSET
+ 
+ sets formed from elements of a parent sets is known as subset
+  ex: A= {1,2,3} 
+        B ={}
+         {1}
+         {2}
+         {3}
+         {1,2}
+         {3,1}
+         {2,3}
+         {1,2,3}
+  therefore, B⊆A             (⊆ means "subset of")
+ number of subset = 2^n(A)
+  for ex:
+   A = {1,2,9}
+   n(A) = 3 
+   therefore, no of possible subset = 2^3= 8
+ every set is a SUBSET of itself.(therefore we used ⊆)
+  if same set is not inculded then we use "⊂" sign.
+  as known as proper subset
+ EMPTY set is subset of every set. 
+
+ Proper Subset 
+  all subset except the same set:
+  ex A={1,2}
+   B = {},{1},{2}
+   therfore B⊂A
+  proper subset = 2^(n(a)) - 1
+_______________________________________________________________________________________
+
+POWER SET 
+ set of subsets is known as Power set.
+  ex: A = {a,b,c}
+  P(A)= {{},{a},{b},{c},{a,b},{b,a},{a,c},{abc}}
+
+______________________________________________________________________________________ 
+
+Universal set 
+ set that contain all the sets under consideration, denoted by U, its also super set of all sets.
+ ex:
+  A = {1,2,3,4,5,6,7,8}
+  B = {1,2,6}
+  C = {1,2}
+  D = [1,7,8]
+  THERE A is here Universal set 
+______________________________________________________________________________________
+
+Disjoint Set: sets with no common element or no intersection 
+ ex: A = {1,2,3} , B = {q,w,e}
+  so A∩B = {} or Φ 
+______________________________________________________________________________________
+ 
+Operation on sets
+
+
+ COMPLEMENT: distinct element in univeral set compared to subset
+  ex : U = {1,2,f,3,4}
+   A = {1,3,f}
+   Aᶜ = {4,2}
+  MORE INFO:
+   (Aᶜ)ᶜ = A 
+   Uᶜ = {}
+   {}ᶜ= U 
+   n(A) + n(Aᶜ) = U
+ UNION: to add sets.
+  ex: A = {1,2,d,5}
+   B={7,6,4}
+   AUB= {1,2,4,5,6,7,d}
+ INTERSECTION :common elements between set.
+  ex: A = {1,2,3}
+  B={3,2,4,5}
+  A∩B = {3,2}
+ DIFFERENCE: 
+  ex: A = {1,2,3,4,5}
+   B = {3,4,5,6,7}
+   A-B = {1,2}
+   B-A ={6,7}
+ SYMMETRIC DIFFERENCE: union of difference of two set .
+ ex: A= {q,w,e} , B= {e,r,t}
+  (A-B)U(B-A)
+
+______________________________________________________________________________________
+
+De-Morgan's Law :
+ Complement: 
+  (AUB)' = A'∩ B'
+  (A∩B)' = A'U B'
+ 
+ Union and Intersection:
+  A∩(BUC) = (A∩B)U(A∩C)
+  AU(B∩C) = (AUB)∩(AUC)
+ 
+ Formula: n(AUB) = n(A) + n(B) - n(A∩B)
+  n(A-B) = n(a) - n(A∩B)
+  n(B-A) = n(B) - n(A∩B)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

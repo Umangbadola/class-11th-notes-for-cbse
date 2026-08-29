@@ -1,0 +1,256 @@
+                                    UNIT AND MEASUREMENT
+            
+MEASUREMENT:
+
+ Measurement is the process of comparing a physical quantity with a standard unit to express its magnitude.
+  It provide a quantitative description of a physical phenomena.
+  ex: measuring the length of a table with a ruler gives a value .
+  KIlo>HECTO>DECO>GRAM>DECI>CENTI>MILI
+ 
+ Unit of Measurement:
+ A unit is a standard reference used to measure physical quantities.
+ >It providea a way to express the magnitude of a quantity by comparing it with a fixed standard.
+ ex: 5kg , 5 is magnitude; kg is unit of measurement.
+
+ therefore any physical quantity can be expressed as nu , n is magnitude and u is unit.
+
+______________________________________________________________________________________________________________________
+
+UNIT
+ Definiton
+  a unit is an arbitrarily chosen standard that is widely accepted and used to measure physical quantites.
+  ex: kg,metre,second 
+
+  Importance of unit : 
+  Unit ensures consistency in measurement
+  They are scientists across the world to communicate results in a standardized way.
+  They form the basis for calculations and comparisons in physics.
+
+
+ System of Unit
+ 
+  Major system of units are:
+   
+   FPS system: Foot,Pound,second
+   CGS system: centimeter , gram, second
+   MKS: Metre, kilogram, Second
+
+______________________________________________________________________________________________________________________
+Quantities
+
+ Measurable quantities
+ Measurable quantities are physical properties that can be quantified.
+  ex,lenght,mass.
+
+ Non- Measurable quantified
+ Non-Measurable quantities are abstract or subjective qualities that cannt be directly measured.
+ ex: emotions,intelligence.
+
+ Physical Quantities;
+ A physical quantity is a property of a material or system that can be quantified.
+ physical quantities represent aspects of the physical worlld to which we can assign numerical values.
+ ex;
+  Length,Mass,Time,Temperature and Force.
+
+ physical quantity= NUmerical Value + unit
+  Pq = nu
+
+ Classification of Physical quantities:
+ Classification based on direction.
+  Scalar Quantities:
+   These quantites have only magnitude(size or amount)
+   They are fully described by a numerical value and a unit.
+   Direction is not associated with scalar quantites.
+   ex; Mass, Speed, Time, Temperature.
+
+  Vector Quantites:
+    These quantites have both magnitude and direction
+    They are fully described by a numerical value,a unit and a direction.
+    ex: Displacement, Velocity,Force, Acceleration.
+
+ Classification based in dependency:
+  Fundamental Quantities:
+   These are quantities that are independent and not defined in terms of other physical quantities.
+   They form the foundation upon which other quantites are built.
+   In the International System of Units , there are seven base quantites.
+   
+
+   Mass                m  kilogram  kg 
+   Length              l  metre     m
+   Time                t  second    s
+   Current             I  ampere    A
+   Temperature         T  kelvin    K
+   Amount of substance n  mole      mol
+   luminous intensity  Lv candela   cd
+
+  Derived quantites:
+   These quantities are defined in terms of fundamental quantities or other derived quantities.
+   They are obtained by combination fundamental quantites through multiplication,division or other mathematical operation.
+   ex: Area = length * length
+       volume = l * l * l 
+       velocity = length/Time 
+
+ Supplementary Quantites
+  Supplementary quantites are quantites that are not categorized as fundamental or derived quantities but are essential for specific measurement
+  These qualities are purely geometrical in nature and are used to measure angle.
+
+  Type of Supplementary Quantites
+   
+   Plane angle : represent the angle between two intersecting lines or surface
+    SI unit = Radian(rad)
+    θ = arc lenth/radius
+
+   Solid angle: represent the three dimensionall angle subtended by a surface at a point 
+    SI unit = sterdian(sr)
+     Ω = area of surface / radius^2
+  
+______________________________________________________________________________________________________________________
+
+Conversion of Unit 
+
+ physical quantity = numerical value + unit 
+ reprented as P.q = nu
+
+ ex: conversion of 3 metre to centimeter
+      n1 u1 = n2 u2 
+      3 metre = n2 centimetre
+      (1 metre = 100cm)
+      therefore
+      3 * 100cm = n2 cm 
+      300 = n2 
+ 
+ conclusion: numerical value is inversely proportional to the unit.
+ for constant physical quantites n*u = constant.
+
+______________________________________________________________________________________________________________________
+
+Dimension 
+ The dimension of a physical quantity are the power to which the fundamental quantities(mass,length , time , etc)must be raised to represent that quantity
+
+ Physical quantity                     dimension symbol
+ Lenght                                        [L]
+ Mass                                          [M]
+ Time                                          [T]
+ Electrical Current                            [A] or [I]
+ Thermodynamic Temperature                     [K] or [θ]
+ Amount of substance                           [mol] or [N]
+ luminous intensity                            [cd]  or [J]
+ 
+
+ DIMENSION FORMULA 
+  Dimension formula represents a physical quantity in terms of fundamental quantities.
+  general form :[MᵃLᵇTᶜ]
+  ex: area = [M⁰L²T⁰ ]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
